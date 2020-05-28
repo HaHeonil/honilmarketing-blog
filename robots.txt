@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://honilmarketing.com/sitemap.xml
+Sitemap: https://honilmarketing.com/sitemap.xml
