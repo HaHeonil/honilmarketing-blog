@@ -8,7 +8,7 @@ author:             "하헌일"
 baseurl:            "/"
 url:                "https://honilmarketing.com"
 locale:             "ko_KR"
-thumbnail:          "/img/Thumbnail.jpg"
+thumbnail:          "/img/pg-thum.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
