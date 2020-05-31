@@ -6,7 +6,7 @@ date: 2020-05-25 17:30:00 +09:00
 feature: '/img/posts/02/2_thum.png'
 background: '/img/posts/02/2_bg.jpg'
 categories:
-  - instanovel
+  - casestudy
 tags:
   - 펭수
   - 동원참치

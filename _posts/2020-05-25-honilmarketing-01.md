@@ -6,7 +6,7 @@ date: 2020-05-25 16:30:00 +09:00
 feature: '/img/posts/01/1_thum.png'
 background: '/img/posts/01/1_bg.jpg'
 categories:
-  - instanovel
+  - casestudy
 tags:
   - 크리에이티브
   - 인스타 노블

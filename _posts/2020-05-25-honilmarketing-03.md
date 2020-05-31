@@ -6,7 +6,7 @@ date: 2020-05-26 12:50:00 +09:00
 feature: '/img/posts/03/3_thum.png'
 background: '/img/posts/03/3_bg.jpg'
 categories:
-  - instanovel
+  - casestudy
 tags:
   - gs25
   - 그립
